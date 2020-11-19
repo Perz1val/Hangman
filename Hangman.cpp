@@ -20,8 +20,6 @@ bool is_in_array(const char array[], char el);
 int main()
 {
     hangman("suctioned");
-
-    
 }
 
 void print_gessed_word(const char guessed_word[]) {
